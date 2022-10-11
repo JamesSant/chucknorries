@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestChuckNorris</string>
+
+    <string name="list">LIST CATEGORIES</string>
+    <string name="categories">DEV</string>
+
+    <string name="value">VALUE</string>
+    <string name="id">ID</string>
+    <string name="url">URL</string>
+</resources>
